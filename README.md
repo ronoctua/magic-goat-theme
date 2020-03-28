@@ -1,5 +1,3 @@
-#
-
 ![Magic Goat Theme - LOGO](images/magic-goat-theme-logo.png)
 
 ## Magic Goat Theme 🐐
@@ -19,4 +17,4 @@
 
 ![Magic Goat Theme - SCREENSHOT 03](images/magic-goat-theme-screenshot-3.png)
 
-![Magic Goat Theme - SCREENSHOT 04](images/magic-goat-theme-screenshot-4.gif)
+![Magic Goat Theme - SCREENSHOT 05](images/magic-goat-theme-screenshot-4.gif)
