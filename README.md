@@ -17,4 +17,4 @@
 
 ![Magic Goat Theme - SCREENSHOT 03](images/magic-goat-theme-screenshot-3.png)
 
-![Magic Goat Theme - SCREENSHOT 05](images/magic-goat-theme-screenshot-4.gif)
+![Magic Goat Theme - SCREENSHOT 05](images/magic-goat-theme-screenshot-5.gif)
