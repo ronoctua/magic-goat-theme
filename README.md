@@ -1,4 +1,4 @@
-![Magic Goat Theme - LOGO](images/magic-goat-theme-logo.png)
+![Magic Goat Theme - LOGO](images/magic-goat-theme-logo-GIF.gif)
 
 ## Magic Goat Theme 🐐
 
