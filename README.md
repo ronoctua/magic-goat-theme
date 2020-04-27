@@ -1,5 +1,7 @@
 ![Magic Goat Theme - LOGO](images/magic-goat-theme-logo-GIF.gif)
 
+[![Magic-Goat-Theme-VERSION](https://img.shields.io/badge/Version-1.4.0-blueviolet)](CHANGELOG.md)
+
 ## Magic Goat Theme 🐐
 
 > A [VS Code](https://code.visualstudio.com/) theme for those who like codes and goats.
