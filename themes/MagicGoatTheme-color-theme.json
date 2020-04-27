@@ -22,7 +22,7 @@
     "sideBar.foreground": "#74747a",
     "sideBarTitle.foreground": "#858585",
     "statusBar.background": "#212225",
-    "statusBar.debuggingBackground": "#212225",
+    "statusBar.debuggingBackground": "#422b3b",
     "statusBar.noFolderBackground": "#212225"
   },
   "tokenColors": [
@@ -50,7 +50,7 @@
         "meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#d9d8e7"
+        "foreground": "#e1e1f3"
       }
     },
     {
@@ -147,14 +147,13 @@
       }
     },
     {
-      "name": "Function, Class, Support, Special Method",
+      "name": "Entity, Function, Class, Support, Special Method",
       "scope": [
-        "entity.name.function",
+        "entity.name",
         "meta.function-call",
         "variable.function",
         "support.function",
         "keyword.other.special-method",
-        "entity.name",
         "support.type",
         "support.orther.namespace.use.php",
         "meta.use.php",
@@ -164,6 +163,13 @@
       ],
       "settings": {
         "foreground": "#74a8e4"
+      }
+    },
+    {
+      "name": "Entity 2",
+      "scope": ["entity.name.function"],
+      "settings": {
+        "foreground": "#a099f8"
       }
     },
     {
@@ -186,7 +192,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#c4c4c4"
+        "foreground": "#b2b993"
       }
     },
     {
@@ -194,7 +200,7 @@
       "scope": ["constant.numeric"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#a07af8"
+        "foreground": "#a14fff"
       }
     },
     {
@@ -216,7 +222,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#bad6b2"
+        "foreground": "#9ace84"
       }
     },
     {
@@ -345,14 +351,24 @@
       }
     },
     {
-      "name": "Decorators",
+      "name": "Decorators 1",
       "scope": [
+        "meta.decorator variable.other.property",
+        "meta.decorator variable.other.object",
         "tag.decorator.js entity.name.tag.js",
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#82AAFF"
+        "foreground": "#6bce80"
+      }
+    },
+    {
+      "name": "Decorators 2",
+      "scope": ["meta.decorator variable.other.readwrite"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#85c0ca"
       }
     },
     {

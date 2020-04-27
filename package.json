@@ -2,7 +2,7 @@
     "name": "magic-goat-theme",
     "displayName": "Magic Goat Theme",
     "description": "A professional theme for those who like codes and goats.",
-    "version": "1.0.5",
+    "version": "1.4.0",
     "engines": {"vscode": "^1.40.0"},
     "categories": ["Themes"],
     "icon": "images/icon.png",
