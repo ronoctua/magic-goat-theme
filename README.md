@@ -1,17 +1,17 @@
 ![Magic Goat Theme - LOGO](images/magic-goat-theme-logo-GIF.gif)
 
-[![Magic-Goat-Theme-VERSION](https://img.shields.io/badge/Version-1.4.0-blueviolet)](CHANGELOG.md)
+[![Magic-Goat-Theme-VERSION](https://img.shields.io/badge/Version-1.4.0-blueviolet)](CHANGELOG.md#🐐) [![Repo-size](https://img.shields.io/github/repo-size/BON4S/MagicGoatTheme?label=Repo%20size&color=blueviolet)](#🐐) [![License](https://img.shields.io/badge/License-MIT-blueviolet)](LICENSE#🐐)
 
-## Magic Goat Theme 🐐
+## 🟣 Magic Goat Theme
 
-> A [VS Code](https://code.visualstudio.com/) theme for those who like codes and goats.
+> A [VS Code](https://code.visualstudio.com/) theme for those who like codes and goats. 🐐
 
-## Links
+## 🟣 Links
 
 - [Download - Visual Studio Code](https://code.visualstudio.com/)
 - [Download - Magic Goat Theme](https://marketplace.visualstudio.com/items?itemName=BON4S.magic-goat-theme)
 
-## Screenshots
+## 🟣 Screenshots
 
 ![Magic Goat Theme - SCREENSHOT 01](images/magic-goat-theme-screenshot-1.png)
 
