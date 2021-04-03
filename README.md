@@ -1,6 +1,6 @@
 ![Magic Goat Theme - LOGO](images/magic-goat-theme-logo-GIF.gif)
 
-[![Magic-Goat-Theme-VERSION](https://img.shields.io/badge/Version-1.4.0-blueviolet)](CHANGELOG.md#🐐) [![Repo-size](https://img.shields.io/github/repo-size/imtherouser/MagicGoatTheme?label=Repo%20size&color=blueviolet)](#🐐) [![License](https://img.shields.io/badge/License-MIT-blueviolet)](License#🐐)
+[![Magic-Goat-Theme-VERSION](https://img.shields.io/badge/Version-1.4.1-blueviolet)](CHANGELOG.md#🐐) [![Repo-size](https://img.shields.io/github/repo-size/imtherouser/MagicGoatTheme?label=Repo%20size&color=blueviolet)](#🐐) [![License](https://img.shields.io/badge/License-MIT-blueviolet)](License#🐐)
 
 ## 🟣 Magic Goat Theme
 
