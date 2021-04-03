@@ -1,40 +1,46 @@
 {
-    "name": "magic-goat-theme",
-    "displayName": "Magic Goat Theme",
-    "description": "A professional theme for those who like codes and goats.",
-    "version": "1.4.0",
-    "engines": {"vscode": "^1.40.0"},
-    "categories": ["Themes"],
-    "icon": "images/icon.png",
-    "license": "MIT",
-    "publisher": "BON4S",
-    "author": {"name": "BON4S"},
-    "homepage": "https://github.com/BON4S/MagicGoatTheme",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BON4S/MagicGoatTheme.git"
-    },
-    "bugs": {
-        "url": "https://github.com/BON4S/MagicGoatTheme/issues"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Magic Goat Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/MagicGoatTheme-color-theme.json"
-            }
-        ]
-    },
-    "keywords": [
-        "goat",
-        "goats",
-        "magic",
-        "dark",
-        "darker",
-        "pro",
-        "theme",
-        "themes",
-        "BON4S"
+  "name": "magic-goat-theme",
+  "displayName": "Magic Goat Theme",
+  "description": "A professional theme for those who like codes and goats.",
+  "version": "1.4.1",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "license": "MIT",
+  "publisher": "BON4S",
+  "author": {
+    "name": "imtherouser"
+  },
+  "homepage": "https://github.com/imtherouser/MagicGoatTheme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imtherouser/MagicGoatTheme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imtherouser/MagicGoatTheme/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Magic Goat Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MagicGoatTheme-color-theme.json"
+      }
     ]
+  },
+  "keywords": [
+    "goat",
+    "goats",
+    "magic",
+    "dark",
+    "darker",
+    "pro",
+    "theme",
+    "themes",
+    "imtherouser"
+  ]
 }
